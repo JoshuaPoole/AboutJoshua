@@ -1,0 +1,29 @@
+@charset "utf-8";
+a:hover {
+	color: #FFFD00;
+}
+a:visited {
+	color: #FFB600;
+}
+h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: normal;
+	border-style: solid;
+	color: #FFFFFF;
+	border-width: medium;
+	text-indent: 0px;
+}
+
+body {
+	border-style: none;
+	background-color: #3A88F2;
+}
+
+p {
+	border-style: none;
+	color: #FBFBFB;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
